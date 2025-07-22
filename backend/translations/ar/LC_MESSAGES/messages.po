@@ -1,0 +1,14 @@
+msgid "User registered successfully"
+msgstr "تم تسجيل المستخدم بنجاح"
+
+msgid "Missing fields"
+msgstr "هناك حقول ناقصة"
+
+msgid "Invalid credentials"
+msgstr "بيانات الدخول غير صحيحة"
+
+msgid "User not active. Please verify your email."
+msgstr "الحساب غير مفعل. يرجى تفعيل البريد الإلكتروني."
+
+msgid "Username or email already exists"
+msgstr "اسم المستخدم أو البريد الإلكتروني مستخدم بالفعل" 
